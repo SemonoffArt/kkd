@@ -1,6 +1,6 @@
 # АСУ корпуса крупного дробления (ККД)
 
-   ![Logo](images/screenshot1.png)
+   ![Logo](images/main2.png)
 
 ## Описание проекта
 
